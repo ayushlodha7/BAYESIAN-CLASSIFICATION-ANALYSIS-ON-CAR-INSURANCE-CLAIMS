@@ -54,6 +54,15 @@ Below is the list of files and their purpose in this repository:
 - `df_preprocess.csv`: Dataset after preliminary preprocessing
 - Other `.R` files correspond to the specific models and their priors used in the analysis.
 
+## Detailed Analysis and Findings
+For a comprehensive understanding of our methodology, models, and findings, please refer to the following resources:
+
+- **Medium Blog Post**: Dive into our detailed blog post on Medium for an in-depth narrative of the Bayesian approach used in building our classification models. [Read the blog post here](https://medium.com/@ayushlodha7/bayesian-way-of-building-classification-models-7b409500bb41).
+
+- **Project Report**: The complete report provides a thorough explanation of the project's scope, methodology, results, and conclusions. The report can be found in the repository.
+
+- **Presentation Slides**: The slides from our project presentation give a visual overview of the research, approach, and key takeaways. These are also available in the repository.
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your suggestions.
 
