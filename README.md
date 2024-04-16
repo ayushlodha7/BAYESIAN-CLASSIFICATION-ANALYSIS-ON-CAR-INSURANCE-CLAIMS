@@ -1,5 +1,3 @@
-# bayesianfinalproject
-
 # Car Insurance Claim Approval: Bayesian Statistical Analysis
 
 ## Overview
