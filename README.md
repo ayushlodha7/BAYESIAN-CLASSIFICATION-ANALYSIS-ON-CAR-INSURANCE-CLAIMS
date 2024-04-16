@@ -17,7 +17,8 @@ This repository contains the analysis of car insurance claim data to determine w
 - [Acknowledgments](#acknowledgments)
 
 ## Project Description
-![Model Comparison](/path/to/model_comparison_image.png)  
+![Model Comparison](<img width="458" alt="image" src="https://github.com/ayushlodha7/BAYESIAN-CLASSIFICATION-ANALYSIS-ON-CAR-INSURANCE-CLAIMS/assets/63442869/2de2c026-e155-461b-af49-78a1cff8aea5">
+)  
 *Image: Comparative results of different Bayesian models.*
 
 This project aims to enhance decision-making in car insurance claims through Bayesian models. We compare these models to traditional logistic regression to demonstrate the advantages of Bayesian methods in such binary classification problems.
