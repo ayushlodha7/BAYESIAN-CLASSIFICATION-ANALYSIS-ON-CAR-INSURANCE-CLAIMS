@@ -17,20 +17,21 @@ This repository contains the analysis of car insurance claim data to determine w
 - [Acknowledgments](#acknowledgments)
 
 ## Project Description
-![Model Comparison] <img width="539" alt="image" src="https://github.com/ayushlodha7/BAYESIAN-CLASSIFICATION-ANALYSIS-ON-CAR-INSURANCE-CLAIMS/assets/63442869/05f30fd6-8489-4db4-a101-43874d311cea">
-
-*Image: Comparative results of different Bayesian models.*
-
 This project aims to enhance decision-making in car insurance claims through Bayesian models. We compare these models to traditional logistic regression to demonstrate the advantages of Bayesian methods in such binary classification problems.
 
 ## Dataset
 The dataset used for this analysis consists of various features that contribute to the decision of approving a car insurance claim. It can be accessed at [Kaggle: Car Insurance Claim Data](https://www.kaggle.com/code/kerneler/starter-car-insurance-claim-data-62f4f91c-d/data).
 
+## State of the art - model results
+! <img width="539" alt="image" src="https://github.com/ayushlodha7/BAYESIAN-CLASSIFICATION-ANALYSIS-ON-CAR-INSURANCE-CLAIMS/assets/63442869/05f30fd6-8489-4db4-a101-43874d311cea">
+
+*Image: Comparative results of different Bayesian models.*
+
 ## Preprocessing Steps
-The data was preprocessed to clean and prepare it for the analysis. This involved:
+The data was preprocessed to clean and prepare for analysis. This involved:
 - Dropping duplicate rows
 - Replacing null values with interpolation
-- Normalizing and log transforming certain features for better model performance
+- Normalizing and log-transforming certain features for better model performance
 
 ## Models
 We utilized several Bayesian models with different priors to analyze the data:
